@@ -23,9 +23,23 @@ This repository contains a collection of projects that I've worked on. Each proj
    A relational database system built using C++, complete with a custom SQL-like language, from the ground up. This project involved creating essential data structures, with the exception of utilizing pre-existing std::set and std::vector functionalities. The system offers dual modes of interaction: a user-friendly command-line mode and a batch mode capable of reading from files and delivering outputs to either the terminal or files. The implemented SQL-like statements encompass crucial functionalities such as select, insert, and create operations.
 
 6. **[Little Test Framework (LTF)](https://github.com/Serenity0204/Little-Test-Framework)**
-   Little Test Framework(LTF), is a hassle-free, light weight(617 lines of code ONLY) C++ unit testing framework. Designed to make your testing experience efficient and effective, this framework provides a minimalistic approach while maintaining powerful testing capabilities.
+   Little Test Framework(LTF), is a hassle-free, lightweight (617 lines of code ONLY) C++ unit testing framework. Designed to make your testing experience efficient and effective, this framework provides a minimalistic approach while maintaining powerful testing capabilities.
 7. **[DSA](https://github.com/Serenity0204/DSA)**
    A collection of various data structures implemented in C++ in generic forms. This project showcases my understanding of data structures and their implementations.
+
+## Web App
+
+### Python Django
+
+1. **[EduBoost](https://github.com/Serenity0204/eduboost)**
+   EduBoost is a dynamic Education Platform crafted using Python Django, Bootstrap, and HTML, dedicated to offering interactive and cost-free learning journeys. With a user-friendly design, students can seamlessly enroll in a variety of courses and dive into a realm of engaging subjects. Additionally, the platform enhances learning through online coding exercises, ensuring practical and hands-on experience for learners of all levels.
+2. **[Little Cloud](https://github.com/Serenity0204/Little-Cloud)**
+  Little Cloud is a powerful Cloud Storage and File Sharing System built using Django, Bootstrap, HTML, and SQLite. With its intuitive interface and feature-rich functionalities, it provides a seamless experience for managing and sharing files in the cloud.
+3. **[E-Commerce](https://github.com/Serenity0204/e-commerce)**
+An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
+
+
+
 
 ## Getting Started
 
@@ -33,7 +47,4 @@ To explore any of the projects, simply navigate to the respective directory and 
 
 ## Feedback and Contact
 
-If you have any questions, suggestions, or feedback about any of the projects, feel free to reach out to me. You can contact me via email at [your.email@example.com](mailto:your.email@example.com) or through my GitHub profile.
-
-Happy coding!
-Your Name
+If you have any questions, suggestions, or feedback about any of the projects, feel free to reach out to me. You can contact me via email at [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com) 
