@@ -1,6 +1,6 @@
 # My Projects List
 
-This repository contains a collection of C++ projects that I've worked on. Each project is contained in its own directory along with a brief description of the project and its purpose. Feel free to explore the projects that interest you!
+This repository contains a collection of projects that I've worked on. Each project is contained in its own directory along with a brief description of the project and its purpose. Feel free to explore the projects that interest you!
 
 ## C++
 
