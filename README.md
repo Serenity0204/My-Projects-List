@@ -27,9 +27,9 @@ This repository contains a collection of projects that I've worked on. Each proj
 7. **[DSA](https://github.com/Serenity0204/DSA)**
    A collection of various data structures implemented in C++ in generic forms. This project showcases my understanding of data structures and their implementations.
 
-## Web App
+## Python
 
-### Python Django
+### Web App Python Django
 
 1. **[EduBoost](https://github.com/Serenity0204/eduboost)**
    EduBoost is a dynamic Education Platform crafted using Python Django, Bootstrap, and HTML, dedicated to offering interactive and cost-free learning journeys. With a user-friendly design, students can seamlessly enroll in a variety of courses and dive into a realm of engaging subjects. Additionally, the platform enhances learning through online coding exercises, ensuring practical and hands-on experience for learners of all levels.
@@ -38,7 +38,8 @@ This repository contains a collection of projects that I've worked on. Each proj
 3. **[E-Commerce](https://github.com/Serenity0204/e-commerce)**
 An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
 
-
+### Python Software
+4. **[Graph Storage X](https://github.com/Serenity0204/Graph-Storage-X)**
 
 
 ## Getting Started
