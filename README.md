@@ -39,7 +39,8 @@ This repository contains a collection of projects that I've worked on. Each proj
 An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
 
 ### Python Software
-4. **[Graph Storage X](https://github.com/Serenity0204/Graph-Storage-X)**
+4. **[GraphX](https://github.com/Serenity0204/GraphX)**
+GraphX is a Python-based in-memory graph storage engine designed to facilitate the representation of complex relational queries, enabling users to store data while effectively capturing relationships between individual data points.
 
 
 ## Getting Started
