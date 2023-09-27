@@ -36,10 +36,11 @@ This repository contains a collection of projects that I've worked on. Each proj
 2. **[Little Cloud](https://github.com/Serenity0204/Little-Cloud)**
   Little Cloud is a powerful Cloud Storage and File Sharing System built using Django, Bootstrap, HTML, and SQLite. With its intuitive interface and feature-rich functionalities, it provides a seamless experience for managing and sharing files in the cloud.
 3. **[E-Commerce](https://github.com/Serenity0204/e-commerce)**
-An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
-
+   An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
+4. **[LinnnCode](https://github.com/Serenity0204/LinnnCode)**
+   A leetcode clone.
 ### Python Software
-4. **[GraphX](https://github.com/Serenity0204/GraphX)**
+5. **[GraphX](https://github.com/Serenity0204/GraphX)**
 GraphX is a Python-based in-memory graph storage engine designed to facilitate the representation of complex relational queries, enabling users to store data while effectively capturing relationships between individual data points.
 
 
