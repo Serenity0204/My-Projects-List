@@ -38,7 +38,7 @@ This repository contains a collection of projects that I've worked on. Each proj
 3. **[E-Commerce](https://github.com/Serenity0204/e-commerce)**
    An e-commerce platform utilizing Django and SQLite, replicating fundamental features including user authentication, registration, cart management, order history, item deletion, and seamless checkout processes.
 4. **[LinnnCode](https://github.com/Serenity0204/LinnnCode)**
-   A leetcode clone.
+   LinnnCode is a practical online coding platform inspired by the gap between theoretical learning and hands-on practice during our undergraduate studies. Similar to platforms like LeetCode and HackerRank, it offers a user-friendly interface for problem-solving and code submission in Python(Not yet) and C++. Experience real-time feedback through our embedded code editor. 
 ### Python Software
 5. **[GraphX](https://github.com/Serenity0204/GraphX)**
 GraphX is a Python-based in-memory graph storage engine designed to facilitate the representation of complex relational queries, enabling users to store data while effectively capturing relationships between individual data points.
